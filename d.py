@@ -1142,7 +1142,7 @@ if st.session_state.calculated:
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-top: 3rem;">
-        Made with ❤️ by Your Name/Organization | &copy; 2025 EcoCalc Pro. All rights reserved.
+        Made with ❤️ by Kavya Joshi | &copy; 2025 EcoCalc Pro. All rights reserved.
     </div>
     """, unsafe_allow_html=True)
 
